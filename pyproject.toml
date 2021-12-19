@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "most-common-words-multilingual"
+version = "0.1.0"
+description = "5000 most frequent words in 109 languages"
+authors = ["konhi <hello.konhi@gmail.com>"]
+license = "GNU General Public License v3.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.3.5"
+mypy = "^0.920"
+openpyxl = "^3.0.9"
+pandas-stubs = "^1.2.0"
+wemake-python-styleguide = "^0.16.0"
+deep-translator = "^1.5.5"
+
+[tool.poetry.dev-dependencies]
+yapf = "^0.31.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
