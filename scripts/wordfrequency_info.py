@@ -7,8 +7,7 @@ import pandas as pd
 import time
 
 CONFIG = {
-    # 'SHEET_DOWNLOAD_URL': 'https://www.wordfrequency.info/samples/wordFrequency.xlsx',
-    'SHEET_DOWNLOAD_URL': 'http://localhost:2137/wordFrequency.xlsx',
+    'SHEET_DOWNLOAD_URL': 'https://www.wordfrequency.info/samples/wordFrequency.xlsx',
     'SHEET_NAME_TO_READ': '1 lemmas',
     'SHEET_COLUMN_TO_READ': 'lemma',
     'WORDS_EXPORT_COUNT': 5050,
