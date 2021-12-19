@@ -1,4 +1,8 @@
 <div align='center'>
+  <img src="https://img.shields.io/badge/words-5050-brightgreen">
+  <img src="https://img.shields.io/badge/languages-109-blue">
+  <img src="https://img.shields.io/badge/latest%20release-v0.1.0-blueviolet">
+  <img src="https://img.shields.io/badge/datasets-1-orange">
   <h1>🏆 Most Common Words Multilingual</h1>
   <p><b>5000</b> most frequent words in <b>109</b> languages. Uses <a href="https://wordfrequency.info">wordfrequency.info</a> as a source.</p>
 </div>
