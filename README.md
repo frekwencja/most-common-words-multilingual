@@ -5,4 +5,4 @@
 
 ## 🔗 License
 - [source code license](https://github.com/frekwencja/most-common-words-multilingual/blob/main/LICENSE)
-- the flashcards are released under different license(s)
+- data is released under different license(s), as they're taken from online sources. Feel free to **contribute** with your own data!
