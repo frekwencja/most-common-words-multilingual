@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/latest%20release-v0.1.0-blueviolet">
   <img src="https://img.shields.io/badge/datasets-1-orange">
   <h1>🏆 Most Common Words Multilingual</h1>
-  <p><b>5000</b> most frequent words in <b>109</b> languages. Uses <a href="https://wordfrequency.info">wordfrequency.info</a> as a source.</p>
+  <p><b>📜 5000</b> most frequent words in <b>🌐 109</b> languages. Uses <a href="https://wordfrequency.info">🔗 wordfrequency.info</a> as a source.</p>
+  <span><a href="https://github.com/frekwencja/most-common-words-multilingual#-use-cases">❔ Use cases</a> • <a href="https://github.com/frekwencja/most-common-words-multilingual#-license">🔗 License</a> • <a href="https://github.com/frekwencja/most-common-words-multilingual#-files">🗃 Files</a></span>
 </div>
 
 ## ❔ Use cases
@@ -12,8 +13,8 @@
 - **🔎 Linguists**: can use this data for research. They should be aware of fact, that it surely contains errors.
 
 ## 🔗 License
-- [source code license](https://github.com/frekwencja/most-common-words-multilingual/blob/main/LICENSE)
-- data is released under different license(s), as they're taken from online sources. Feel free to **contribute** with your own data!
+- 👨‍💻 [source code license](https://github.com/frekwencja/most-common-words-multilingual/blob/main/LICENSE)
+- 📜 data is released under different license(s), as they're taken from online sources. Feel free to **contribute** with your own data!
 
 > Are you interested in this project? Check out other cool things we do at **@frekwencja**!
 
