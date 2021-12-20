@@ -15,6 +15,9 @@
 - [source code license](https://github.com/frekwencja/most-common-words-multilingual/blob/main/LICENSE)
 - data is released under different license(s), as they're taken from online sources. Feel free to **contribute** with your own data!
 
+> Are you interested in this project? Check out other cool things we do at **@frekwencja**!
+
+## 🗃 Files
 |🌐 Language | 📁 File |
 |-----------------|----------------------------------|
 | Afrikaans (af) | [.txt](https://github.com/frekwencja/most-common-words-multilingual/blob/main/data/wordfrequency.info/af.txt) |
