@@ -7,6 +7,10 @@
   <p><b>5000</b> most frequent words in <b>109</b> languages. Uses <a href="https://wordfrequency.info">wordfrequency.info</a> as a source.</p>
 </div>
 
+## ❔ Use cases
+- **📖 Students, Teachers, Material Developers**: knowing commonly used words is crucial for understanding language. You might want to check other **@frekwencja** projects, especially [Language Learning Flashcards](https://github.com/frekwencja/language-learning-flashcards).
+- **🔎 Linguists**: can use this data for research. They should be aware of fact, that it surely contains errors.
+
 ## 🔗 License
 - [source code license](https://github.com/frekwencja/most-common-words-multilingual/blob/main/LICENSE)
 - data is released under different license(s), as they're taken from online sources. Feel free to **contribute** with your own data!
